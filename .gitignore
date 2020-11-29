@@ -1,0 +1,8 @@
+# Default ignored files
+.idea/
+# IntelliJ
+out/
+
+#labs
+lab6/.idea/
+lab6/.out/
